@@ -6,11 +6,7 @@ Nosso projeto tem como objetivo a criação de uma aplicação web, buscando apl
 
 ## Integrantes
 
-* Gabriel Henrique 
-* Kauan Maia 
 * Luis Gustavo 
-* Manuela 
-* Wagner Teofilo
 
 
 
